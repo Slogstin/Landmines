@@ -3,6 +3,8 @@ This Addon adds Landmines to [Hideous Destructor](https://codeberg.org/mc776/Hid
 
 They DO NOT SPAWN NATURALLY and are mainly intended for mappers!
 
+Feel free to add them to your map set and modify them in any way you like!
+
 
 # Credits
 Matt for [Hideous Destructor](https://codeberg.org/mc776/HideousDestructor) and the code for the Barrels and IEDs that i borrowed used for this.
