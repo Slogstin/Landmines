@@ -5,6 +5,9 @@ They DO NOT SPAWN NATURALLY and are mainly intended for mappers!
 
 Feel free to add them to your map set and modify them in any way you like!
 
+![boom](https://github.com/user-attachments/assets/90c21708-9d6e-48ef-a5e2-92013b0268d6)
+
+
 
 # Credits
 Matt for [Hideous Destructor](https://codeberg.org/mc776/HideousDestructor) and the code for the Barrels and IEDs that i borrowed used for this.
