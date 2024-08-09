@@ -1,0 +1,5 @@
+doomednums
+{
+	24000 = "HDNeutralLandmine"
+	24001 = "HDHostileLandmine"
+}

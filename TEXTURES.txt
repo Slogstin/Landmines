@@ -1,0 +1,23 @@
+Sprite "LNDMA0", 14, 6
+{
+	XScale 5.000
+	YScale 5.000
+	Offset 7, 6
+	Patch "sprites/MineA", 0, 0
+}
+
+Sprite "LNDMB0", 14, 6
+{
+	XScale 5.000
+	YScale 5.000
+	Offset 7, 6
+	Patch "sprites/MineB", 0, 0
+}
+
+Sprite "LNDMC0", 14, 6
+{
+	XScale 5.000
+	YScale 5.000
+	Offset 7, 6
+	Patch "sprites/MineC", 0, 0
+}
